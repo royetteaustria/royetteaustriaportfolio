@@ -16,7 +16,7 @@ const About = () => {
           </p>
           <button className="rounded-xl bg-primary text-white p-2 mt-4">
             <a
-              href="https://drive.google.com/file/d/1p_68RvvElPyZpzoudjR3dPab-cSqA3Rt/view?usp=sharing"
+              href="https://drive.google.com/file/d/11chPprim1usXZelvg4yk3onp9Kh5apxw/view?usp=sharing"
               className="flex justify-between p-1 gap-2 font-semibold inherit"
             >
               Download CV
