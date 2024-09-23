@@ -7,10 +7,10 @@ const About = () => {
             Who am I?
           </h2>
           <h4 className="pt-6 font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
-            I'm Royette Austria, a Full stack Developer
+            I'm Royette Austria, a Full-Stack Developer
           </h4>
           <p className="pt-6 font-body leading-relaxed text-grey-20 text-left">
-            A fresh graduate and passionate full stack developer. I love
+            A fresh graduate and passionate Full-Stack developer. I love
             creating dynamic and responsive websites with clean code. Join me on
             my journey as I build user-friendly web applications.
           </p>

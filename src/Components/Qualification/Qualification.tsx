@@ -38,10 +38,8 @@ const Qualification = () => {
                   <div className="pt-2">
                     <span className="block font-body text-black">
                       {" "}
-                      Developed and maintained a Web-based Customer Relationship
-                      Management System (CRM) using NextJs, oversaw maintenance
-                      of the company website using WORDPRESS, and created
-                      graphic designs for learning materials.
+                      Maintain the company website using WORDPRESS and created
+                      graphic designs for learning materials
                     </span>
                   </div>
                 </div>
