@@ -13,17 +13,18 @@ const Hero = () => {
 
         <div className="container relative z-30 pt-20 pb-12 sm:pt-56 sm:pb-48 lg:pt-64 lg:pb-48">
           <div className="flex flex-col items-center justify-center lg:flex-row">
-            <div
-              className="rounded-full border-8 border-primary shadow-xl"
-              data-aos="fade-right"
-              data-aos-duration="1000"
-            >
-              <img
-                src={yet}
-                className="h-48 rounded-full sm:h-56"
-                alt="author"
-              />
-            </div>
+          <div
+  className="rounded-full border-8 border-primary shadow-xl overflow-hidden w-48 h-48 sm:w-56 sm:h-56"
+  data-aos="fade-right"
+  data-aos-duration="1000"
+>
+  <img
+    src={yet}
+    className="w-full h-full object-cover"
+    alt="author"
+  />
+</div>
+
             <div
               className="pt-8 sm:pt-10 lg:pl-8 lg:pt-0"
               data-aos="fade-left"
