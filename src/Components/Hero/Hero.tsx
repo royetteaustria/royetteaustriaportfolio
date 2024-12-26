@@ -1,6 +1,6 @@
 import { IoIosArrowForward } from 'react-icons/io';
 import background from '../../assets/img/backgroundhero.jpg'
-import yet from '../../assets/img/yet.png'
+import yet from '../../assets/img/467486339_3553397041471993_2447553812964779020_n.jpg'
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 const Hero = () => {
   return (
